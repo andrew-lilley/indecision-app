@@ -1,0 +1,1 @@
+"use strict";Object.defineProperty(exports,"__esModule",{value:!0}),exports.default=exports.add=exports.square=void 0,console.log("utils.js is running");var square=function(e){return e*e};exports.square=square;var add=function(e,r){return e+r};exports.add=add;var subtract=function(e,r){return e-r},_default=subtract;exports.default=_default;

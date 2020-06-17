@@ -1,0 +1,1 @@
+"use strict";Object.defineProperty(exports,"__esModule",{value:!0}),exports.default=exports.canDrink=exports.isAdult=void 0;var isAdult=function(r){return 18<=r};exports.isAdult=isAdult;var canDrink=function(r){return 21<=r};exports.canDrink=canDrink;var isSenior=function(r){return 65<=r},_default=isSenior;exports.default=_default;
